@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hola 👋, soy Luis Ángel</h1>
 
-<h3 align="center">Estudiante de ingeniería de sistemas de 9n semestre, actualmente en busca de trabajo</h3>
+<h3 align="center">Estudiante de ingeniería de sistemas de 9no semestre, actualmente en busca de trabajo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisparr14&label=Profile%20views&color=0e75b6&style=flat" alt="luisparr14" /> </p>
-
 
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://www.luisangel.tech](https://www.luisangel.tech)
