@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Ángel</h1>
 <h3 align="center">Ninth-semester student of systems engineering, currently looking for a job. I like sports and tv series</h3>
 
-- 👨‍💻 All of my projects are available at [https://luisangel.tech](https://luisangel.tech)
+- 👨‍💻 All of my projects are available at [https://luchodev.co](https://luchodev.co)
 
 - 📫 How to reach me **luisparr14@gmail.com**
 
